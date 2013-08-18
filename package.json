@@ -5,6 +5,11 @@
   "repository": {
     "url": "git://github.com/jameskyburz/mobile-fix-orientation-change.git"
   },
+  "keywords": [
+    "mobile",
+    "orientation",
+    "ios"
+  ],
   "main": "index.js",
   "dependencies": {}
 }
