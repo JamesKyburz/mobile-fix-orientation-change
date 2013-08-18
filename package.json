@@ -6,7 +6,5 @@
     "url": "git://github.com/jameskyburz/mobile-fix-orientation-change.git"
   },
   "main": "index.js",
-  "dependencies": {
-    "attachevent": "0.0.0"
-  }
+  "dependencies": {}
 }
