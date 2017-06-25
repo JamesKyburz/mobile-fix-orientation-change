@@ -1,5 +1,7 @@
 # mobile-fix-orientation-change
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/mobile-fix-orientation-change.svg)](https://greenkeeper.io/)
+
 This module fixes the screen size when orientation changes, using the meta viewport.
 
 # install
